@@ -44,6 +44,8 @@
     Appel à acteurs / comédiens
     L'enregistrement
     Noise Reduction
+    https://www.studiotjp.com/une-fiction-sonore-de-a-a-z-08-enregistrement-voix/
+    https://www.studiotjp.com/une-fiction-sonore-de-a-a-z-09-verification-des-rushes-recus/
   </p>
 </details>
 
@@ -65,6 +67,8 @@
     Normalisation
     Editing
     Montage
+    La spatialisation https://www.studiotjp.com/tuto-des-voix-dans-lespace/
+    https://www.studiotjp.com/creer-lambiance-sonore-dune-ville-futuriste-sombre/
   </p>
 </details>
 
@@ -80,10 +84,12 @@
 <summary>Publier et communiquer</summary>
   <p>
     
+    la pochette https://www.studiotjp.com/une-fiction-sonore-de-a-a-z-03-visuels-pochette/
     Spotify
     Deezer
     Amazon Music
     Communication
+    https://www.studiotjp.com/ou-et-comment-publier-gratuitement-vos-fictions-sonores/
   </p>
 </details>
 
