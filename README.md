@@ -56,6 +56,14 @@
 ## L'ambiance sonore
 
 <details>
+<summary>Sélectionner un fond musical</summary>
+  <p>
+    
+    ?
+  </p>
+</details>
+
+<details>
 <summary>Mixer et monter</summary>
   <p>
     
