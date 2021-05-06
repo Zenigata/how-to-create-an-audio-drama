@@ -38,7 +38,7 @@
 </details>
 
 <details>
-<summary>Recruter le casting</summary>
+<summary>Recruter le casting et enregistrer</summary>
   <p>
     
     Appel à acteurs / comédiens
