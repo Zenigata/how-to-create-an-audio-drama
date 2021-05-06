@@ -1,5 +1,7 @@
 # Comment créer une fiction sonore ?
 
+## L'écriture
+
 <details>
 <summary>Trouver une idée</summary>
   <p>
@@ -37,6 +39,8 @@
   </p>
 </details>
 
+## Le casting
+
 <details>
 <summary>Recruter le casting et enregistrer</summary>
   <p>
@@ -48,6 +52,8 @@
     https://www.studiotjp.com/une-fiction-sonore-de-a-a-z-09-verification-des-rushes-recus/
   </p>
 </details>
+
+## L'ambiance sonore
 
 <details>
 <summary>Mixer et monter</summary>
@@ -72,6 +78,8 @@
   </p>
 </details>
 
+## La finalisation
+
 <details>
 <summary>Passer en beta écoute</summary>
   <p>
@@ -92,6 +100,8 @@
     https://www.studiotjp.com/ou-et-comment-publier-gratuitement-vos-fictions-sonores/
   </p>
 </details>
+
+## Bonus
 
 <details>
 <summary>Liens divers</summary>
