@@ -83,6 +83,8 @@
     Montage
     La spatialisation https://www.studiotjp.com/tuto-des-voix-dans-lespace/
     https://www.studiotjp.com/creer-lambiance-sonore-dune-ville-futuriste-sombre/
+    https://thesoundpacktree.com/pages/footsteps-generator
+    https://cchound.com/
   </p>
 </details>
 
