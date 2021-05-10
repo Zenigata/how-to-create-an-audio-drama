@@ -126,5 +126,6 @@
     https://weirdworldstudios.com/tips-and-suggestions-for-writing-audio-drama-for-kids/
     https://www.spotlight.com/news-and-advice/tips-and-advice/an-actors-guide-to-producing-your-own-audio-play/
     https://www.studiotjp.com/category/tutos/
+    http://zylannprods.fr/tutorials/Realiser-une-saga-audio.pdf
   </p>
 </details>
