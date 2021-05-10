@@ -127,5 +127,8 @@
     https://www.spotlight.com/news-and-advice/tips-and-advice/an-actors-guide-to-producing-your-own-audio-play/
     https://www.studiotjp.com/category/tutos/
     http://zylannprods.fr/tutorials/Realiser-une-saga-audio.pdf
+    https://lasonotheque.org/
+    https://freesound.org/
+    https://sound-effects.bbcrewind.co.uk/
   </p>
 </details>
